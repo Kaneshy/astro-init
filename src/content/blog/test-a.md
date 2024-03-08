@@ -1,7 +1,7 @@
 ---
 title: 'Bedroom'
 description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 08 2022'
+pubDate: 'Jul 22 2022'
 heroImage: '/a.jpg'
 ---
 
